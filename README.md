@@ -5,6 +5,7 @@
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/en) (Ensure Node.js is installed on your system)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## Installation
 
