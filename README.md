@@ -11,7 +11,7 @@
 - clone the repository
 
 ```bash
-git clone
+git clone https://github.com/thedr4c0/xcroll.git
 cd xcroll
 ```
 
