@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.8",
+    "authorization-anonymous": "e9a2cc39-c44c-4c9f-bc50-bb8ad606e560",
+    "isloggedin": "false",
+    "ispwa": "false",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Brave\";v=\"128\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "sec-gpc": "1",
+    "cookie": "cf_clearance=YcpiotgBxJqDB0Zv6ONtR44Xuz8_fjXR9LL0Xt9CuTY-1725280643-1.2.1.1-sSwJ.Lee8oSUqeZhftj83CT1_JmOo.D0fdbs2x1pECAIjFp2JwgAbKmtA7O1Zbs4qYtxQmXiBg7ENjp2yZsdUcdhOeEeBOyZD._jt0IIs6iL2uSGa7GZ7KqYID00rGic5W.JT.2X55FiOg8aHZvWyvfVp_iPXM7YxxdyqEF7v0KC4rjhHtR_.EzxGTiTnnB86cJtUJvfMHJtuTX_shV71gmmBfOrClQfQ55kjcpxqQ5mEfJbHOGBGGJDHjc5asF6gOTItDmF4LuK8oKe.aPAf8HnaAPzABo9NOt41A07ThiaCKrv7cv1xGWhKbHgE83JMI6ujsSZHdur0XEM.fj1pAC0gXpNrtEL7vt7vNp8knnW.V6U1usi5oXAmf8yBZGc",
+    "Referer": "https://fikfap.com/",
+    "Referrer-Policy": "no-referrer-when-downgrade"
+  }
+}
